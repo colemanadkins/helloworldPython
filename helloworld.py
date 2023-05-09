@@ -1,8 +1,4 @@
 #First Python Repository
-print('Hello World')
-
-print('Test')
-
-print('Test')
-
-print('Test')
+print("Hello World")
+name = input("Testing Github Desktop. Enter name: ")
+print(f"Hello {name}, welcome.")
